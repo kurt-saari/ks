@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the kslink feature.
+ */
+
+include_once 'kslink.features.inc';
